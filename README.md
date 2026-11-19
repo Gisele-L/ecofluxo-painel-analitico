@@ -1,6 +1,7 @@
 # EcoFluxo · Painel analítico
 
 FIAP · Global Solution 2026.2 · CitizenTech · Data Science
+
 Gisele Santos de Lima · Grupo NeoSync · 2TSCOR
 
 Painel que mostra, com dados públicos de Recife, por que o EcoFluxo é necessário e por onde começar. Os dados estão
