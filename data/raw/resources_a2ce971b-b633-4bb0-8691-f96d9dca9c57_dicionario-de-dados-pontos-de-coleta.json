@@ -1,0 +1,71 @@
+{
+  "metadados": {
+    "cabecalho": {
+      "titulo": "Pontos de coleta seletiva e resíduos",
+      "descricao": "Disponibiliza informações de locais que coletam resíduos recicláveis como papel, plástico, metal, vidro, óleo de cozinha, além de lixo eletroeletrônico, lâmpadas, pneus, pilhas e baterias, eletrodomésticos, entre outros itens.",
+      "categoria_vcge": "http://vocab.e.gov.br/id/governo#preservacao-conservacao-ambiental",
+      "fonte_dados": "http://dados.recife.pe.gov.br",
+      "licenca": "Open Database License (ODbL)",
+      "responsavel_dados": "Secretária de Meio Ambiente e Sustentabilidade",
+      "responsavel_disponibilizar": "EMPREL",
+      "frequencia_atualizacao": "Anual",
+      "endereco_dataset": "http://dados.recife.pe.gov.br/dataset/pontos-de-coleta-seletiva",
+      "status": "ativo",
+      "endereco_dataset_substituto": "",
+      "granularidade": "Por Ecoestação",
+      "etiquetas": "Meio Ambiente, Sustentabilidade, Ecoestação, coleta, seletiva, cooperativa, ecoponto, Ecoestação,lixo, reciclável, resíduo"
+    },
+    "recursos": [
+      {
+        "identificador": "http://dados.recife.pe.gov.br/dataset/pontos-de-coleta-seletiva/resource/ef521704-6960-4ef1-8f98-a60db4a0d79b",
+        "titulo": "Pontos de coleta",
+        "formato": "csv",
+        "descricao": "Apresenta a descrição dos locais, bem como sua localização georreferenciada para descarte de materiais do tipo: metal, isopor, papel, plástico, vidro, eletrônico, Óleos de Cozinha, Pneu, Lâmpada"
+      }
+    ],
+    "campos": [
+      {
+        "codigo": "tiporesiduo",
+        "descricao": "tipo do resíduo coletado",
+        "tipo": "Char",
+        "tamanho": 254,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "bairro",
+        "descricao": "Bairro do ponto de coleta",
+        "tipo": "Char",
+        "tamanho": 254,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "endereco",
+        "descricao": "endereco do ponto de coleta",
+        "tipo": "Char",
+        "tamanho": 254,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "observacao",
+        "descricao": "Observação sobre o local",
+        "tipo": "Char",
+        "tamanho": 254,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "latitude",
+        "descricao": "Coordenadas geográficas em graus decimais - Latitude",
+        "tipo": "Num",
+        "tamanho": 15,
+        "valores_permitidos": ""
+      },
+      {
+        "codigo": "longitude",
+        "descricao": "Coordenadas geográficas em graus decimais - Longitude",
+        "tipo": "Num",
+        "tamanho": 15,
+        "valores_permitidos": ""
+      }
+    ]
+  }
+}

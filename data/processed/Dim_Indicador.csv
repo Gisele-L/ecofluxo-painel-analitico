@@ -1,0 +1,11 @@
+id_indicador,id_fonte_dado,codigo,nome,unidade,regra_agregacao
+1,IBGE_CENSO_2022,MORADORES,Moradores em domicílios particulares permanentes ocupados,pessoas,soma
+2,IBGE_CENSO_2022,DOMICILIOS,Domicílios com responsáveis (V06001),domicílios,soma
+3,IBGE_CENSO_2022,RENDA_MEDIA_RESP,Rendimento nominal médio do responsável (V06004),R$,ponderar_por_domicilios
+4,IBGE_CENSO_2022,RENDA_MEDIANA_RESP,Rendimento nominal mediano do responsável (V06006),R$,nao_aditivo
+5,RECIFE_MALHA,AREA_KM2,Área do bairro,km²,soma
+6,RECIFE_ZEIS,AREA_ZEIS_KM2,Área do bairro em ZEIS,km²,soma
+7,RECIFE_COLETA,PONTOS_TOTAIS,Pontos de coleta de qualquer resíduo no bairro,pontos,soma
+8,RECIFE_COLETA,PONTOS_RECICLAVEIS,Pontos que aceitam recicláveis secos no bairro,pontos,soma
+9,ECOFLUXO_COBERTURA,MORADORES_COBERTOS_500M,Moradores estimados a até 500 m de um ponto de recicláveis,pessoas (estimativa),soma
+10,ECOFLUXO_COBERTURA,MORADORES_COBERTOS_1000M,Moradores estimados a até 1 km de um ponto de recicláveis,pessoas (estimativa),soma

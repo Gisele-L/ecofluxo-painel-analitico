@@ -1,0 +1,23 @@
+{
+  "referencia": "16/09/2023",
+  "escopo": "Recife",
+  "tipo": "indicadores_municipais_somente",
+  "familias": 36340,
+  "pessoas": 82346,
+  "renda_per_capita_mediana_brl": 175.0,
+  "pct_familias_renda_pc_ate_218": 58.23610346725372,
+  "pct_familias_renda_pc_ate_660": 81.8189323059989,
+  "pct_familias_marcacao_pbf": 59.74133186571271,
+  "gasto_alimentacao_mediana_brl": 300.0,
+  "pct_mediana_gasto_sobre_renda_declarada": 65.65656565656566,
+  "pct_gasto_sobre_renda_ge_50_entre_validos": 60.0613963443828,
+  "proporcoes_alimentacao_denominador_valido": 35507,
+  "pct_pessoas_15mais_nao_leem": 8.065737317953058,
+  "pct_pessoas_60mais": 12.111092220630026,
+  "pct_familias_cadastro_atualizado_ate_24m": 76.92625206384149,
+  "pct_familias_coleta_direta": 87.51788662630709,
+  "pct_familias_coleta_indireta": 8.665382498624105,
+  "pct_familias_lixo_outros_destinos": 3.5855806274078152,
+  "sha256_arquivo_nao_publicado": "711a0bd76bb196edfc874aa0df6f5e1beda1d20f3c485a0a3752b6021d70dbf6",
+  "advertencia": "Dados públicos anonimizados de referência 2023, processados localmente; apenas este agregado é exportado. A renda declarada não inclui benefícios sociais. NÃO publicar microdados."
+}

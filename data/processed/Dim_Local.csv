@@ -1,0 +1,226 @@
+id_local,id_bairro,nome,tipo_local,origem_cadastro,aceita_reciclavel,latitude,longitude
+1,8,"Avenida Sul, s/n",Cooperativa,Base pública da Prefeitura do Recife,1,-8.075631,-34.891624
+2,2,"Av. Chagas Ferreira, 601",Cooperativa,Base pública da Prefeitura do Recife,1,-8.005045,-34.912247
+3,30,"Rua Eliezer Olímpio de Moura, 100",Cooperativa,Base pública da Prefeitura do Recife,1,-8.044426,-34.91299
+4,8,"Travessa do Gusmão, 178",Cooperativa,Base pública da Prefeitura do Recife,1,-8.071821,-34.886728
+5,16,"Av. Padre Mosca de Carvalho, s/n",Cooperativa,Base pública da Prefeitura do Recife,1,-7.964258,-34.9246
+6,86,"Avenida Professor José dos Anjos, s/n",Cooperativa,Base pública da Prefeitura do Recife,1,-8.020267,-34.874597
+7,8,"Rua Pacatuba, s/n",Cooperativa,Base pública da Prefeitura do Recife,1,-8.076567,-34.897539
+8,8,"Rua Oscar de Melo, s/n",Cooperativa,Base pública da Prefeitura do Recife,1,-8.077965,-34.899157
+9,88,"R. Antônio Cardoso da Fonte, 483",Cooperativa,Base pública da Prefeitura do Recife,1,-8.097676,-34.919589
+10,74,"Rua Rio Uma, 150",Cooperativa,Base pública da Prefeitura do Recife,1,-8.114698,-34.931643
+11,86,Av. Prof. José dos Anjos,Ecoestação,Base pública da Prefeitura do Recife,1,-8.020158,-34.874417
+12,86,Av. Agamenon Magalhães com Rua Odorico Mendes,Ecoestação,Base pública da Prefeitura do Recife,1,-8.039289,-34.878378
+13,94,Av. Rio Largo com Avenida Santos,Ecoestação,Base pública da Prefeitura do Recife,1,-8.115278,-34.953455
+14,74,Rua Rio Tapado,Ecoestação,Base pública da Prefeitura do Recife,1,-8.116757,-34.943218
+15,74,Av. Mascarenhas de Morais,Ecoestação,Base pública da Prefeitura do Recife,1,-8.123213,-34.914702
+16,30,Rua Ciclovia República da Argélia,Ecoestação,Base pública da Prefeitura do Recife,1,-8.044172,-34.916232
+17,48,Rua Maestro Jones Johnsson,Ecoestação,Base pública da Prefeitura do Recife,1,-8.057741,-34.935627
+18,1,Rua Onze de Agosto,Ecoestação,Base pública da Prefeitura do Recife,1,-8.077674,-34.971714
+19,22,"R. da Aurora, s/n - Santo Amaro, Recife – PE",PEV,Base pública da Prefeitura do Recife,1,-8.054841,-34.876912
+20,10,"Av. Rio Branco, 261- Recife, PE",PEV,Base pública da Prefeitura do Recife,1,-8.062349,-34.873686
+21,10,"Av. Alfredo Lisboa, 11 - Bairro do Recife, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.063356,-34.871452
+22,9,"Praça da Independência - Santo Antônio, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.064063,-34.87838
+23,22,"R. Princesa Isabel, 405 - Santo Amaro, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.058049,-34.882241
+24,19,"Praça Miguel de Cervantes - Ilha do Leite, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.066343,-34.893374
+25,27,"Av. Lins Petit, 3 - Boa Vista, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.060482,-34.894897
+26,10,"Cais do Apolo, 905 - Recife, PE",PEV,Base pública da Prefeitura do Recife,1,-8.054718,-34.872298
+27,22,"Av. da Saudade, 28 - Boa Vista",PEV,Base pública da Prefeitura do Recife,1,-8.050546,-34.883392
+28,23,"Praça Parque Amorim - Capunga - Boa Vista, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.051907,-34.895045
+29,10,"Praça do Arsenal da Marinha, 35 Sala 803 – Recife",PEV,Base pública da Prefeitura do Recife,1,-8.061433,-34.871067
+30,10,"Av. Rio Branco, 155 A – Recife",PEV,Base pública da Prefeitura do Recife,1,-8.062639,-34.872884
+31,47,"R. João Fernandes Viêira, 160 - Soledade, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.054543,-34.89133
+32,11,"R. Carlos Fernandes, 264 - Hipódromo, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.032606,-34.886425
+33,86,"Av. Gov. Agamenon Magalhães, 1956 - Santo Amaro, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.039209,-34.878273
+34,86,"Av. Prof. José dos Anjos, 36 - Peixinhos, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.020321,-34.874485
+35,68,"R. Amaro Coutinho, 675 - Encruzilhada, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.032911,-34.896082
+36,14,"Av. Dezessete de Agosto, 1386 - Casa Forte, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.035757,-34.920196
+37,85,"Av. Dezessete de Agosto, 2702 - Monteiro, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.027942,-34.92823
+38,60,"Estr. Real do Poço, 494 - Poço da Panela, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.036449,-34.924747
+39,77,"Estrada do Morro da Conceição, 442 - Morro da Conceição, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.019322,-34.914722
+40,39,"Av. Rui Barbosa, 1899 - Graças, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.037776,-34.905772
+41,15,"Av. Dezessete de Agosto, 177 - Parnamirim, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.03418,-34.911283
+42,39,"R. do Futuro, 1100 - Jaqueira, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.036243,-34.903834
+43,29,"Rua Senador Alberto Paiva, 71-115 - Graças, Recife - PE, 52050-260 - Graças, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.043843,-34.901419
+44,39,"Rua Hoel Sette, 109 - Jaqueira, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.036238,-34.902906
+45,55,"Praça do Arraial Novo do Bom Jesus - Cordeiro - Cordeiro, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.057104,-34.930558
+46,48,"R. Tumiritinga, 115 - Torrões, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.057688,-34.935291
+47,30,"R. Ciclovia República da Argélia, 10 - Iputinga, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.044144,-34.916223
+48,49,"Praça Bom Pastor, 1308 - Iputinga, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.048485,-34.940198
+49,32,"R. Antônio Curado, 352-428 - Engenho do Meio, Recife - PE, 50730-180 - Engenho do Meio, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.057298,-34.942138
+50,46,"Av. Sport Clube do Recife, 830 - Ilha do Retiro, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.061184,-34.902856
+51,46,"Av. Beira Rio, 1008 - Madalena, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.046852,-34.904118
+52,46,"R. Castro Leão, 299 - Madalena, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.054359,-34.908995
+53,30,"Praça Professor Barreto Campelo, 1183 - Torre, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.047049,-34.913819
+54,61,"Estação Riacho Cavouco - Sentido Subúrbio - Várzea, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.03667,-34.94587
+55,49,"R. São Mateus, 6 - Iputinga, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.029139,-34.934141
+56,50,"Av. Gen. San Martin, 1862 - Jiquiá, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.066807,-34.927582
+57,1,"R. Nelsom de Sena, 5 - Curado, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.077634,-34.971882
+58,1,"Av. Liberdade, 65 - Tejipio, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.082147,-34.960266
+59,56,"R. Cap. Ponciano, 201 - Barro, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.095263,-34.943601
+60,53,"R. Álvaro Fragoso, 216 - Areias, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.09606,-34.931721
+61,52,"Av. Central, 5916 - Jardim São Paulo, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.085763,-34.936725
+62,88,"Av. Mascarenhas de Moraes, 533 - Imbiribeira, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.087189,-34.907475
+63,88,"R. Nova Verona, 101 - Imbiribeira, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.096544,-34.91565
+64,74,"Av. Pres. Dutra, 50 - Imbiribeira, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.123409,-34.915241
+65,74,"Av. Mascarenhas de Moraes, 203 - Imbiribeira, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.134015,-34.916686
+66,80,"Av. Boa Viagem, 4862 - Boa Viagem, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.131883,-34.900145
+67,80,"First Garden of Boa Viagem - Av. Boa Viagem, 1156-1220 - Boa Viagem, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.10147,-34.885324
+68,80,"R. Barão de Souza Leão, 131 - Boa Viagem, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.13215,-34.901202
+69,80,"Av. Boa Viagem, 3196 - Boa Viagem, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.105139,-34.887018
+70,88,"R. Quatorze, 216 - Imbiribeira, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.099578,-34.908741
+71,70,"Av. Antônio de Goes, 1050 - Pina, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.084317,-34.887553
+72,94,"Av. Santos, 15 - COHAB, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.115285,-34.95355
+73,74,"R. Rio Tapado, 39 - Ibura, Recife",PEV,Base pública da Prefeitura do Recife,1,-8.116771,-34.943378
+74,10,"Av. Cais do Apolo, Prefeitura do Recife (área interna )",Outro,Base pública da Prefeitura do Recife,1,-8.054732,-34.872078
+75,10,"Rua do Bom Jesus, Em frente ao Museu Arq. e Pça do Arsenal",Ecoponto,Base pública da Prefeitura do Recife,1,-8.061468,-34.871037
+76,10,"Av. Marques de Olinda, Calçada da cimento nassau( em frete ao marco zero)",Ecoponto,Base pública da Prefeitura do Recife,1,-8.063282,-34.871568
+77,10,"Av. Rio Branco, Calçada do Banco do Brasil",Ecoponto,Base pública da Prefeitura do Recife,1,-8.062334,-34.873668
+78,9,"Avenida Dantas Barreto, Calçada da Praça da Independência",Ecoponto,Base pública da Prefeitura do Recife,1,-8.064094,-34.878483
+79,8,"Rua Floriano Peixoto, Dentro da Estação de Metrô",Ecoponto,Base pública da Prefeitura do Recife,1,-8.068556,-34.88447
+80,22,"Rua da Aurora, Calçada em frente à quadra, lado oposto",Ecoponto,Base pública da Prefeitura do Recife,1,-8.054618,-34.876745
+81,22,"Rua Princesa Isabel, Calçada do Parque 13 de Maio",Ecoponto,Base pública da Prefeitura do Recife,1,-8.058044,-34.882159
+82,19,"Praça Miguel Cervantes, Primeira Ilha",Ecoponto,Base pública da Prefeitura do Recife,1,-8.065414,-34.893205
+83,27,"Avenida Lins Petit - Praça Chora Menino, Em frente da Praça Chora Menino",Ecoponto,Base pública da Prefeitura do Recife,1,-8.060445,-34.894878
+84,25,"Av. Agamenon Magalhães, Praça do Derby",Ecoponto,Base pública da Prefeitura do Recife,1,-8.056318,-34.898245
+85,23,"Av. Gov. Agamenon Magalhães, Praça do Parque Amorim",Ecoponto,Base pública da Prefeitura do Recife,1,-8.051932,-34.89503
+86,11,"Rua Carlos Fernandes, Na Praça do Hipódromo",Ecoponto,Base pública da Prefeitura do Recife,1,-8.032588,-34.886414
+87,12,"Av. Santos Dumont, Praça do Rosarinho",Ecoponto,Base pública da Prefeitura do Recife,1,-8.032848,-34.89619
+88,86,"Av. Professor José dos Anjos, EcoEstação Arruda : Em frente da ponte do Rio Beberibe",Ecoponto,Base pública da Prefeitura do Recife,1,-8.020431,-34.87449
+89,29,"Rua Alberto Paiva, em frente ao Colégio São Luis",Ecoponto,Base pública da Prefeitura do Recife,1,-8.04383,-34.901421
+90,15,"Av. 17 de Agosto, Praça Dr. José Vilela",Ecoponto,Base pública da Prefeitura do Recife,1,-8.034167,-34.91129
+91,26,"Rua Samuel Farias, Pça Comp. Antonio Maria, em frente ao Colégio Expoente",Ecoponto,Base pública da Prefeitura do Recife,1,-8.040656,-34.914137
+92,77,"Rua Morro da Conceição, Praça do Morro da Conceição",Ecoponto,Base pública da Prefeitura do Recife,1,-8.019382,-34.914654
+93,85,"Av.17 de Agosto, Pça em frente ao Colégio Silva Jardim",Ecoponto,Base pública da Prefeitura do Recife,1,-8.027919,-34.928247
+94,39,"Rua Rui Barbosa, Cais da Jaqueira,lateral do Parque da Jaqueira",Ecoponto,Base pública da Prefeitura do Recife,1,-8.037156,-34.90612
+95,39,"Rua do Futuro, Praça Souto Filho,Jaqueira.",Ecoponto,Base pública da Prefeitura do Recife,1,-8.036269,-34.902888
+96,60,"Estrada. Real do Poço., Praça Rui Antunes",Ecoponto,Base pública da Prefeitura do Recife,1,-8.036879,-34.924999
+97,82,"Av. Norte, Academia da Cidade do Buriti, em frente da Academia da Cidade do Burit",Ecoponto,Base pública da Prefeitura do Recife,1,-8.016896,-34.929414
+98,26,"R. Jorge Gomes de Sá (Parque de Santana), em frente do Parque de Santana",Ecoponto,Base pública da Prefeitura do Recife,1,-8.041134,-34.917631
+99,66,"Av. Norte., Praça do Trabalho,",Ecoponto,Base pública da Prefeitura do Recife,1,-8.023107,-34.914341
+100,14,"Av.17 de Agosto., Praça da Vitória Régia",Ecoponto,Base pública da Prefeitura do Recife,1,-8.035752,-34.920197
+101,30,"Av. Beira Rio, Praça da Academia da Cidade",Ecoponto,Base pública da Prefeitura do Recife,1,-8.046621,-34.904167
+102,46,"Rua José Múcio Monteiro, Estacionamento da FCAP-UPE",Ecoponto,Base pública da Prefeitura do Recife,1,-8.061194,-34.902833
+103,30,"Rua Prof. Barreto Campelo, Praça Prof. Barreto Campelo",Ecoponto,Base pública da Prefeitura do Recife,1,-8.047006,-34.913753
+104,32,"Rua Antonio Curado, Praça da Academia da Cidade Arnaldo Assunção.",Ecoponto,Base pública da Prefeitura do Recife,1,-8.057281,-34.942328
+105,49,"Rua Bom Pastor, Praça do Bom Pastor",Ecoponto,Base pública da Prefeitura do Recife,1,-8.04891,-34.940114
+106,30,"Rua Real da Torre, Centro Educacional Paulo Freire da Prefeitura",Ecoponto,Base pública da Prefeitura do Recife,1,-8.045157,-34.910046
+107,55,"Rua Dezesseis de Outubro - Cordeiro, Em frente do Parque Arraial Novo do Bom Jesus",Ecoponto,Base pública da Prefeitura do Recife,1,-8.058085,-34.931176
+108,50,"Rua Elphego Jorge de Souza, ao lado do CHESF - Companhia Hidroelétrica do São Francisco",Ecoponto,Base pública da Prefeitura do Recife,1,-8.064149,-34.931022
+109,50,"Av.General San Martin, Academia da Cidade de San Martin.",Ecoponto,Base pública da Prefeitura do Recife,1,-8.066808,-34.927572
+110,88,"Avenida Mascarenhas de Moraes, em frente à COPERGÁS",Ecoponto,Base pública da Prefeitura do Recife,1,-8.087282,-34.907481
+111,48,"Rua Vinte e Um de Abril, 3370, EMPREL",Outro,Base pública da Prefeitura do Recife,0,-8.06767,-34.938081
+112,47,"Av. Conde da Boa Vista, 867, URB",Outro,Base pública da Prefeitura do Recife,0,-8.058303,-34.888518
+113,80,"Rua Visc. de Jequitinhonha, 2674",Ecoponto,Base pública da Prefeitura do Recife,1,-8.136264,-34.903703
+114,1,"Rodovia BR 232, s/n - Curado",Outro,Base pública da Prefeitura do Recife,0,-8.076071,-34.966706
+115,40,"Av. Recife, 3587 - Areias, Próximo ao Hospital Geral de Areias",Outro,Base pública da Prefeitura do Recife,0,-8.102022,-34.927986
+116,63,"Rua Melânio de Barros Correia, 26",Outro,Base pública da Prefeitura do Recife,0,-8.003058,-34.899059
+117,66,"Av. Norte Miguel Arraes, 5600",Outro,Base pública da Prefeitura do Recife,0,-8.021548,-34.916639
+118,1,"Av 11 de Agosto, Bidu Krause",Outro,Base pública da Prefeitura do Recife,0,-8.079778,-34.970345
+119,15,"Dr. João Santos Filho, 255",Outro,Base pública da Prefeitura do Recife,0,-8.036359,-34.913042
+120,80,"Rua Padre Carapuceiro, 777",Outro,Base pública da Prefeitura do Recife,0,-8.120844,-34.904384
+121,26,"Praça Jorn. Francisco P. Queiroz, 310",Outro,Base pública da Prefeitura do Recife,0,-8.037597,-34.91375
+122,66,"Av. Norte Miguel Arraes de Alencar, 6061",Outro,Base pública da Prefeitura do Recife,0,-8.021132,-34.919673
+123,37,"Av. Prof. Moraes Rego, 1235",Outro,Base pública da Prefeitura do Recife,0,-8.052328,-34.945095
+124,88,"Rua Nova Verona, Praça da Academia da Cidade/Lagoa do Araçá",Ecoponto,Base pública da Prefeitura do Recife,1,-8.096588,-34.915461
+125,80,"Av. Barão de Souza Leão, Posto Tiradentes/BR.",Ecoponto,Base pública da Prefeitura do Recife,1,-8.132921,-34.912598
+126,80,"Rua Marques de Valença, Lateral da Igreja Matriz de Boa Viagem",Ecoponto,Base pública da Prefeitura do Recife,1,-8.131763,-34.900649
+127,80,"Av. Boa Viagem, Parque Dona Lindú",Ecoponto,Base pública da Prefeitura do Recife,1,-8.140939,-34.903304
+128,80,"Rua Dr. Nilo Dornelas Câmara, Praça de Boa Viagem (calçada voltada para  a praia)",Ecoponto,Base pública da Prefeitura do Recife,1,-8.132314,-34.900105
+129,1,"Rua Nelson de Sena, Em frente do : INST de Desenvol Econômico Social Produtivo",Ecoestação,Base pública da Prefeitura do Recife,1,-8.077703,-34.971841
+130,1,"AV. Liberdade, Em frente do portão Cemitério Parque das Flores",Ecoponto,Base pública da Prefeitura do Recife,1,-8.082139,-34.960278
+131,54,"AV. Dr. José Rufino, Saída da Estação Tejipió",Ecoponto,Base pública da Prefeitura do Recife,1,-8.090814,-34.957087
+132,56,"Rua José Benedito Mouri Fernandes, Rua Cap. Ponciano",Ecoponto,Base pública da Prefeitura do Recife,1,-8.095265,-34.94353
+133,53,"Rua Ipojuca, Praça Heróis da Restauração",Ecoponto,Base pública da Prefeitura do Recife,1,-8.097034,-34.936117
+134,52,"Rua Nossa Senhora de Fatima, Praça de Jardim São Paulo",Ecoponto,Base pública da Prefeitura do Recife,1,-8.08196,-34.938121
+135,74,"Av. Rio Largo, Atras do E.M. Cristiano Cordeiro",Ecoestação,Base pública da Prefeitura do Recife,1,-8.116778,-34.943389
+136,74,"Rua Rio das Pedras, Tech Infor Informática",Ecoestação,Base pública da Prefeitura do Recife,1,-8.116722,-34.94328
+137,40,"Av. Recife, em frente do EMLURB",Ecoponto,Base pública da Prefeitura do Recife,1,-8.102002,-34.92827
+138,60,"Rua Eng. Oscár Ferreira, 338",Outro,Base pública da Prefeitura do Recife,1,-8.029387,-34.922791
+139,2,"Rua Mamede Coelho, 53",Outro,Base pública da Prefeitura do Recife,1,-8.005428,-34.903342
+140,15,"Rua Desembargador Góis Cavalcante, 261",Outro,Base pública da Prefeitura do Recife,1,-8.031581,-34.90845
+141,91,"Av. da Recuperação, 318",Outro,Base pública da Prefeitura do Recife,0,-8.016326,-34.940215
+142,30,"Rua José Bonifácio, 1315",Outro,Base pública da Prefeitura do Recife,0,-8.040099,-34.909766
+143,90,"Rua da Paz, 82",Outro,Base pública da Prefeitura do Recife,0,-8.079229,-34.904414
+144,8,"Rua São Miguel, 250",Outro,Base pública da Prefeitura do Recife,0,-8.066962,-34.885139
+145,64,"Rua Chã de Alegria, 117",Outro,Base pública da Prefeitura do Recife,0,-8.020803,-34.903803
+146,39,"Rua do futuro, 959",Outro,Base pública da Prefeitura do Recife,0,-8.035791,-34.904969
+147,23,"Av. Governador Carlos de Lima Cavalcanti, Ao lado do Posto Dom Bosco",Outro,Base pública da Prefeitura do Recife,0,-8.056214,-34.895461
+148,67,"Av. Aníbal Benévolo, 1552, ao lado Centro Comunitária da Paz - COMPAZ- Alto Santa Terezinha",Outro,Base pública da Prefeitura do Recife,0,-8.010403,-34.903292
+149,55,"Av. General San Martin, Ao lado do Condomínio Morada Recife Antigo",Outro,Base pública da Prefeitura do Recife,0,-8.060022,-34.926157
+150,80,"Rua Professor Eduardo Wanderley Filho, Ao lado do Condomínio  Ed. Sky Boa Viagem",Outro,Base pública da Prefeitura do Recife,0,-8.110761,-34.894612
+151,80,"Rua Padre Cabral, Em frente a loja Miss Meria",Outro,Base pública da Prefeitura do Recife,0,-8.133723,-34.907142
+152,9,"Rua Moacir Boracho, Ao lado da Secretaria da fazenda do estado de pernambuco",Outro,Base pública da Prefeitura do Recife,0,-8.062223,-34.876877
+153,32,"Rua Bom Pastor, 1406",Outro,Base pública da Prefeitura do Recife,0,-8.049916,-34.939615
+154,24,"Av. João de Barros, 1545, Nº1545/1563",Outro,Base pública da Prefeitura do Recife,0,-8.041006,-34.891821
+155,29,"Av. Rui Barbosa, 1680",Outro,Base pública da Prefeitura do Recife,0,-8.038775,-34.904595
+156,74,"Av. Ministro Oliveira Salazar, 228",Outro,Base pública da Prefeitura do Recife,0,-8.109953,-34.937659
+157,94,"Av. Pernambuco, Em frete do NÚCLEO DE SEGURANÇA COMUNITÁRIA",Outro,Base pública da Prefeitura do Recife,0,-8.121299,-34.94675
+158,88,"Av. Marechal Mascarenhas de Morais, 1919",Outro,Base pública da Prefeitura do Recife,0,-8.099596,-34.909465
+159,88,"Rua Conego Lira, 282",Outro,Base pública da Prefeitura do Recife,0,-8.095385,-34.912275
+160,41,"Rua Saturnino Meireles, s/n",Outro,Base pública da Prefeitura do Recife,0,-8.114453,-34.921247
+161,74,"Rua Rio Tapado, s/n",Ecoestação,Base pública da Prefeitura do Recife,1,-8.11673,-34.9436
+162,94,"Av. Santos, s/n",Ecoestação,Base pública da Prefeitura do Recife,1,-8.115148,-34.9536
+163,1,"Rua Onde de Agosto, s/n",Ecoestação,Base pública da Prefeitura do Recife,1,-8.07771,-34.9718
+164,86,"Avenida Agamenon Magalhães, Com a rua Odorico Mendes",Ecoestação,Base pública da Prefeitura do Recife,1,-8.039064,-34.8784
+165,88,"Avenida Mascarenhas de Morais, Sentido cidade/subúrbio, próximo ao viaduto Tancredo Neves",Ecoestação,Base pública da Prefeitura do Recife,1,-8.123083,-34.9133
+166,31,"Rua Professor José dos Anjos, (Ao lado do Habitacional Palha de Arroz",Ecoestação,Base pública da Prefeitura do Recife,1,-8.02263,-34.880095
+167,48,"Rua Maestro Jones Johnson, s/n",Ecoestação,Base pública da Prefeitura do Recife,1,-8.05775,-34.935388
+168,46,"Rua Visconde de Albuquerque, Praça Eça de Queiroz",Ecoponto,Base pública da Prefeitura do Recife,1,-8.050744,-34.906654
+169,46,"Avenida Abdias de Carvalho, Fcap",Ecoponto,Base pública da Prefeitura do Recife,1,-8.061185,-34.902842
+170,29,"Av. Cons. Rosa Silva, SEMAS",Não informado,Base pública da Prefeitura do Recife,0,-8.039852,-34.901529
+171,40,"Av. Recife, 3587, EMLURB",Não informado,Base pública da Prefeitura do Recife,0,-8.101863,-34.930435
+172,45,"Praça Faria Neves, s/n, Compesa - Dois irmãos",Não informado,Base pública da Prefeitura do Recife,0,-8.015659,-34.943115
+173,52,"Rua Capetinga, s/n, Escola Trajano de Mendoca",Não informado,Base pública da Prefeitura do Recife,0,-8.07851,-34.943506
+174,9,"Av. Rio Branco, 193, EREM Porto Digital",Não informado,Base pública da Prefeitura do Recife,0,-8.062736,-34.875556
+175,22,"Av. Cruz Cabugá, 767, Serviço Social da Indústria - Sesi",Não informado,Base pública da Prefeitura do Recife,0,-8.0479,-34.879823
+177,79,"Rua Vasco da Gama,145, SESI Vasco da Gama",Não informado,Base pública da Prefeitura do Recife,0,-8.019268,-34.923782
+178,88,"Rua Antônio Cardoso da Fonte, n 483, Pro-Recife",Cooperativa,Base pública da Prefeitura do Recife,1,-8.097759,-34.921774
+179,53,"Rua Oscár Melo, COOPAGRES",Cooperativa,Base pública da Prefeitura do Recife,1,-8.097761,-34.928341
+180,7,"Rua Farias Neves, n 982, Palha de arroz",Cooperativa,Base pública da Prefeitura do Recife,1,-8.020308,-34.876456
+181,8,"Avenida Sul, S/N, Cooperativa Verde Nossa Vida",Cooperativa,Base pública da Prefeitura do Recife,1,-8.075442,-34.890902
+182,8,"Avenida Sul, S/N, Cooperativa Esperança Viva",Cooperativa,Base pública da Prefeitura do Recife,1,-8.075416,-34.891094
+183,30,"Rua Eliéser Olímpio de Moura, 100 A, Cooperativa Recicla Torre",Cooperativa,Base pública da Prefeitura do Recife,1,-8.044562,-34.915153
+184,83,"Av. Chagas Ferreira, 601, Cooperativa Resgatando Vidas",Cooperativa,Base pública da Prefeitura do Recife,1,-8.005097,-34.914497
+185,46,"Av. Abdias de Carvalho, 341, Pneus Pirelle",Não informado,Base pública da Prefeitura do Recife,0,-8.061416,-34.908718
+186,68,"Av. Norte, 2261, Bridgestone Pneus",Não informado,Base pública da Prefeitura do Recife,0,-8.039216,-34.893334
+187,8,"Rua Lourenço de Sá, 165, Pneu Verde",Não informado,Base pública da Prefeitura do Recife,0,-8.074329,-34.89802
+188,88,"Rua Francisco Correa de Moraes, 100, Carrefour RBV Boa Viagem",Não informado,Base pública da Prefeitura do Recife,0,-8.124149,-34.9133
+189,39,"R. Dep. Pedro Pires Ferreira - Jaqueira, Recife",Não informado,Base pública da Prefeitura do Recife,0,-8.037843,-34.905663
+190,29,"Rua Gerásio Fioravante, 209. Graça, Recife",Não informado,Base pública da Prefeitura do Recife,0,-8.04872,-34.903219
+191,10,"Rua Domingos José Martins, 75, Recife, Recife",Não informado,Base pública da Prefeitura do Recife,0,-8.06176,-34.873872
+192,9,"Edifício Ministro Djaci Falcão, Cais do Apolo – Recife",Não informado,Base pública da Prefeitura do Recife,0,-8.058476,-34.875246
+193,80,"Rua Ernesto de Paula Santos, Empresarial Nestor Rocha, 1172. Boa Viagem, Recife",Não informado,Base pública da Prefeitura do Recife,0,-8.124002,-34.908371
+195,46,"Rua Henrique Dias, 609. Derby, Recife",Não informado,Base pública da Prefeitura do Recife,0,-8.059178,-34.901393
+196,85,"Av. Dezessete de Agosto, 2187. Casa Forte, Recife",Não informado,Base pública da Prefeitura do Recife,0,-8.031125,-34.927634
+198,27,"Av. Gov. Agamenon Magalhães, 4475 - Ilha do Leite, Recife",Não informado,Base pública da Prefeitura do Recife,0,-8.063994,-34.899067
+200,24,"Av. Gov. Agamenon Magalhães, 2978 - Espinheiro, Recife",Não informado,Base pública da Prefeitura do Recife,0,-8.04804,-34.895392
+201,29,"Av. Rui Barbosa, 1104, Graças – Recife",Não informado,Base pública da Prefeitura do Recife,0,-8.042781,-34.903612
+202,5,"Rua Ministro Mário Andreaza, S/N, Várzea, Recife",Não informado,Base pública da Prefeitura do Recife,0,-8.066079,-34.987969
+204,14,"Rua Dr. João Santos Filho, 255, Casa Forte - Recife",Não informado,Base pública da Prefeitura do Recife,0,-8.037154,-34.917038
+206,80,"Rua Belmonte, Nº 199, Boa Viagem - RECIFE/PE",Não informado,Base pública da Prefeitura do Recife,0,-8.133314,-34.909451
+207,80,"Rua José Cardoso Aires, nº 705, Boa Viagem - Recife/PE",Não informado,Base pública da Prefeitura do Recife,0,-8.141566,-34.912218
+208,35,"Rua Sebastião Alves, nº 73, Tamarineira, Recife/PE",Não informado,Base pública da Prefeitura do Recife,0,-8.031632,-34.907942
+209,5,"Av. República do Líbano nº251, Pina, Recife/PE",Não informado,Base pública da Prefeitura do Recife,0,-8.037063,-34.949868
+210,39,"Rua Antenor Navarro, 81. Graças, Recife/PE",Não informado,Base pública da Prefeitura do Recife,0,-8.037597,-34.904499
+212,8,"R. Santa Rita, 216 - São José, Recife - PE, 50020-320",Não informado,Base pública da Prefeitura do Recife,0,-8.070541,-34.88077
+213,74,"R. Antônio Luís Soares, 129 - Boa Viagem, Recife - PE, 51210-050",Não informado,Base pública da Prefeitura do Recife,0,-8.140593,-34.918946
+214,10,"Rua Bione, Cais do Apolo, 220, Recife - PE, 50030-390",Não informado,Base pública da Prefeitura do Recife,0,-8.058252,-34.874183
+215,9,"Rua da Palma, 333",Não informado,Base pública da Prefeitura do Recife,0,-8.065866,-34.88303
+216,88,Shopping Recife,Não informado,Base pública da Prefeitura do Recife,0,-8.102826,-34.911376
+219,66,"Rua Padre Lemos, 203 Loja 203 - Casa Amarela",Não informado,Base pública da Prefeitura do Recife,0,-8.024984,-34.920379
+223,9,"Rua da Palma, 251, 251 Loja - Santo Antônio",Não informado,Base pública da Prefeitura do Recife,0,-8.065036,-34.882777
+224,70,Shopping Rio Mar,Não informado,Base pública da Prefeitura do Recife,0,-8.086287,-34.896044
+227,60,"Praça de Casa Forte, 465, Casa Forte - Recife",Não informado,Base pública da Prefeitura do Recife,0,-8.034798,-34.921101
+228,72,"Rua Tabaiares, 360. Ilha do Retiro, Recife/PE",Não informado,Base pública da Prefeitura do Recife,0,-8.065024,-34.907206
+229,29,"Av. Rosa e Silva, 1510. Aflitos, Recife/PE",Não informado,Base pública da Prefeitura do Recife,0,-8.038186,-34.901888
+230,50,"Rua Dona Maria Augusta Nogueira, 519, Bongi - Recife-PE",Não informado,Base pública da Prefeitura do Recife,0,-8.065199,-34.925273
+231,82,"Av. Norte Miguel Arraes de Alencar, s/n - Macaxeira, Recife",Não informado,Base pública da Prefeitura do Recife,0,-8.014581,-34.9337
+232,35,"R. Regueira Costa, S/N - Rosarinho, Recife - PE, 52041-050",Não informado,Base pública da Prefeitura do Recife,0,-8.033677,-34.900549
+233,80,"Av. Eng. Domingos Ferreira, 2379 - Pina, Recife - PE, 51020-031",Não informado,Base pública da Prefeitura do Recife,0,-8.111381,-34.894713
+234,1,"Av. professor Luís Freire, 500, Cidade Universitária - Recife PE",Não informado,Base pública da Prefeitura do Recife,0,-8.058944,-34.95143
+235,23,"R. João Fernandes Viêira, s/n - Boa Vista, Recife - PE,",Não informado,Base pública da Prefeitura do Recife,0,-8.05344,-34.89412
+236,46,"R. Benfica, 286, Madalena",Não informado,Base pública da Prefeitura do Recife,0,-8.059081,-34.903698
+238,29,"R. do Futuro, 514 - Graças",Não informado,Base pública da Prefeitura do Recife,0,-8.040179,-34.902632
+239,29,"Av. Conselheiro Rosa e Silva, 1339, Aflitos",Não informado,Base pública da Prefeitura do Recife,0,-8.039951,-34.901544
+244,55,"R. Paraguassú, 255, Zumbi, Recife-pE",Não informado,Base pública da Prefeitura do Recife,0,-8.049602,-34.919529

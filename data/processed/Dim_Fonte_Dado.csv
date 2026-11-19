@@ -1,0 +1,8 @@
+id_fonte_dado,instituicao,conjunto,url,licenca,data_referencia,data_extracao
+IBGE_CENSO_2022,IBGE,Censo Demográfico 2022: agregados de rendimento do responsável por bairro e por setor censitário,https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-demografico-2022.html,Dados públicos; reprodução com citação da fonte,2022-07-31,2026-11-17
+RECIFE_COLETA,Prefeitura do Recife,Pontos de coleta seletiva e resíduos,https://dados.recife.pe.gov.br/dataset/pontos-de-coleta-seletiva,ODbL,2026-11-17,2026-11-17
+RECIFE_MALHA,Prefeitura do Recife,Bairros e RPAs do Recife,https://dados.recife.pe.gov.br/dataset/area-urbana,ODbL,2026-11-17,2026-11-17
+RECIFE_ZEIS,Prefeitura do Recife,Zoneamento do Plano Diretor: ZEIS,https://dados.recife.pe.gov.br/dataset/zoneamento,ODbL,2026-11-17,2026-11-17
+ECOFLUXO_COBERTURA,EcoFluxo (cálculo sobre Prefeitura do Recife e IBGE),Moradores estimados a 500 m e a 1 km de pontos de recicláveis,https://github.com/Gisele-L/ecofluxo-painel-analitico,"Derivado de RECIFE_COLETA, RECIFE_MALHA e IBGE_CENSO_2022",2026-11-17,2026-11-17
+MDS_CADINSAN,MDS,CadINSAN: risco de insegurança alimentar grave entre famílias do CadÚnico (municipal),https://www.gov.br/mds/pt-br/Sisan/vigilancia-do-sisan/CADinsan/,Conteúdo público do Governo Federal; citar a fonte,2024-01-31,2026-11-17
+RECIFE_CADUNICO_2023,Prefeitura do Recife,"Cadastro Único 2023, base anonimizada (usada só em agregados municipais)",https://dados.recife.pe.gov.br/dataset/cadastro-unico-para-programas-sociais,ODbL; microdados mantidos fora do repositório,2023-09-16,2026-11-17

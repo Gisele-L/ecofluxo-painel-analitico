@@ -1,0 +1,24 @@
+{
+  "checagens": {
+    "status": "APROVADO",
+    "erros": [],
+    "testes_executados": 7
+  },
+  "auditoria": {
+    "total_pontos_arquivo": 244,
+    "pontos_coordenadas_validas": 244,
+    "registros_dentro_recife_todos_residuos": 225,
+    "registros_fora_recife": 19,
+    "registros_compativeis_reciclagem": 144,
+    "registros_compativeis_dentro_recife": 144,
+    "bairros_geograficos": 94,
+    "bairros_ibge_com_renda": 94,
+    "feicoes_zeis": 92,
+    "geometrias_zeis_reparadas_make_valid": 2,
+    "geometrias_bairro_reparadas_make_valid": 0,
+    "rpa_divergencia_aux_vs_geo": 0,
+    "bairros_aux_nao_conciliados": [],
+    "fato_indicador_territorial_linhas": 940,
+    "dim_local_linhas": 225
+  }
+}

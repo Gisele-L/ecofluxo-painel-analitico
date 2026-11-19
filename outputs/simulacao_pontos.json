@@ -1,0 +1,220 @@
+{
+  "10 bairros prioritários (IPV)": {
+    "bairros": [
+      "Córrego do Jenipapo",
+      "Alto Santa Terezinha",
+      "Brejo da Guabiraba",
+      "Coqueiral",
+      "Nova Descoberta",
+      "Mangueira",
+      "Água Fria",
+      "Beberibe",
+      "Alto José do Pinho",
+      "Alto José Bonifácio"
+    ],
+    "moradores": 138861,
+    "cobertura_por_qtd_pontos": {
+      "0": 6.6001471555743505,
+      "1": 18.01894030951468,
+      "2": 26.848661979296338,
+      "3": 35.18694356656006,
+      "4": 43.29646864085527,
+      "5": 49.61859054874894,
+      "6": 55.92460099697778,
+      "7": 62.21410254795575
+    },
+    "posicoes_teoricas": [
+      {
+        "ordem": 1,
+        "longitude": -34.900998,
+        "latitude": -8.014822
+      },
+      {
+        "ordem": 2,
+        "longitude": -34.932218,
+        "latitude": -7.99976
+      },
+      {
+        "ordem": 3,
+        "longitude": -34.907825,
+        "latitude": -8.020215
+      },
+      {
+        "ordem": 4,
+        "longitude": -34.894214,
+        "latitude": -8.018922
+      },
+      {
+        "ordem": 5,
+        "longitude": -34.896879,
+        "latitude": -8.006704
+      },
+      {
+        "ordem": 6,
+        "longitude": -34.925441,
+        "latitude": -8.005216
+      },
+      {
+        "ordem": 7,
+        "longitude": -34.933546,
+        "latitude": -7.992973
+      }
+    ],
+    "cobertura_inicial_pct": 6.6001471555743505,
+    "grade_m": 50.0,
+    "candidatos_a_cada_m": 150.0,
+    "raio_m": 500.0,
+    "nota": "SIMULAÇÃO: grade de 50 m, candidatos a cada 150 m, linha reta, população uniforme por bairro."
+  },
+  "Agrupamento RPA 3": {
+    "bairros": [
+      "Brejo da Guabiraba",
+      "Córrego do Jenipapo",
+      "Nova Descoberta"
+    ],
+    "moradores": 47396,
+    "cobertura_por_qtd_pontos": {
+      "0": 4.416701715202445,
+      "1": 30.38011037795022,
+      "2": 49.130259168904004,
+      "3": 67.35072910249372,
+      "4": 78.27000372065369,
+      "5": 86.85340516717922,
+      "6": 94.28270651041207,
+      "7": 98.36607224710866
+    },
+    "posicoes_teoricas": [
+      {
+        "ordem": 1,
+        "longitude": -34.932348,
+        "latitude": -7.999735
+      },
+      {
+        "ordem": 2,
+        "longitude": -34.925572,
+        "latitude": -8.005191
+      },
+      {
+        "ordem": 3,
+        "longitude": -34.93231,
+        "latitude": -7.991598
+      },
+      {
+        "ordem": 4,
+        "longitude": -34.935095,
+        "latitude": -8.005146
+      },
+      {
+        "ordem": 5,
+        "longitude": -34.92425,
+        "latitude": -8.013334
+      },
+      {
+        "ordem": 6,
+        "longitude": -34.937777,
+        "latitude": -7.996997
+      },
+      {
+        "ordem": 7,
+        "longitude": -34.926901,
+        "latitude": -7.998404
+      }
+    ],
+    "cobertura_inicial_pct": 4.416701715202445,
+    "grade_m": 50.0,
+    "candidatos_a_cada_m": 150.0,
+    "raio_m": 500.0,
+    "nota": "SIMULAÇÃO: grade de 50 m, candidatos a cada 150 m, linha reta, população uniforme por bairro."
+  },
+  "Agrupamento RPAs 2 e 3": {
+    "bairros": [
+      "Alto Santa Terezinha",
+      "Água Fria",
+      "Beberibe",
+      "Alto José do Pinho",
+      "Alto José Bonifácio"
+    ],
+    "moradores": 74374,
+    "cobertura_por_qtd_pontos": {
+      "0": 9.811774361942854,
+      "1": 30.972085984067366,
+      "2": 47.02162486061394,
+      "3": 62.058373633892124,
+      "4": 73.62489381532421,
+      "5": 81.4815044192012,
+      "6": 88.88065152395953,
+      "7": 95.27637272164347
+    },
+    "posicoes_teoricas": [
+      {
+        "ordem": 1,
+        "longitude": -34.900103,
+        "latitude": -8.014554
+      },
+      {
+        "ordem": 2,
+        "longitude": -34.908278,
+        "latitude": -8.017229
+      },
+      {
+        "ordem": 3,
+        "longitude": -34.893326,
+        "latitude": -8.02001
+      },
+      {
+        "ordem": 4,
+        "longitude": -34.895984,
+        "latitude": -8.006437
+      },
+      {
+        "ordem": 5,
+        "longitude": -34.905576,
+        "latitude": -8.02131
+      },
+      {
+        "ordem": 6,
+        "longitude": -34.912341,
+        "latitude": -8.013142
+      },
+      {
+        "ordem": 7,
+        "longitude": -34.886523,
+        "latitude": -8.020041
+      }
+    ],
+    "cobertura_inicial_pct": 9.811774361942854,
+    "grade_m": 50.0,
+    "candidatos_a_cada_m": 150.0,
+    "raio_m": 500.0,
+    "nota": "SIMULAÇÃO: grade de 50 m, candidatos a cada 150 m, linha reta, população uniforme por bairro."
+  },
+  "Dois agrupamentos (pontos por agrupamento)": {
+    "bairros": [
+      "Brejo da Guabiraba",
+      "Córrego do Jenipapo",
+      "Nova Descoberta",
+      "Alto Santa Terezinha",
+      "Água Fria",
+      "Beberibe",
+      "Alto José do Pinho",
+      "Alto José Bonifácio"
+    ],
+    "moradores": 121770,
+    "cobertura_por_qtd_pontos": {
+      "0": 7.716661620416165,
+      "1": 30.74219924921527,
+      "2": 47.84048808930243,
+      "3": 64.11359737247417,
+      "4": 75.42876738398273,
+      "5": 83.56761862752522,
+      "6": 90.97847577464549,
+      "7": 96.47622104012757
+    },
+    "posicoes_teoricas": [],
+    "cobertura_inicial_pct": 7.716661620416165,
+    "grade_m": 50.0,
+    "candidatos_a_cada_m": 150.0,
+    "raio_m": 500.0,
+    "nota": "SIMULAÇÃO: grade de 50 m, candidatos a cada 150 m, linha reta, população uniforme por bairro."
+  }
+}

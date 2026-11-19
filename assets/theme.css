@@ -1,0 +1,71 @@
+/* EcoFluxo — identidade visual (Mata, Folha, Broto, Sálvia, Musgo, Orvalho, Papel, Areia, Terra) */
+:root{--mata:#173F32;--folha:#236448;--broto:#DDF59A;--salvia:#86B596;--musgo:#52675B;--orvalho:#EAF1E5;
+--papel:#F4F6F0;--areia:#F5EBD6;--terra:#624A2B;--linha:#DFE5DB;--branco:#FFFFFF}
+html,body,.stApp,.stApp :where(div,span,p,li,label,a,button,input,td,th,code){font-family:Inter,'Segoe UI',Arial,sans-serif}
+[data-testid="stIconMaterial"],.material-symbols-rounded{font-family:'Material Symbols Rounded'!important}
+.stApp{background:var(--papel);color:var(--mata)}
+[data-testid="stHeader"]{background:transparent;height:0}
+[data-testid="stToolbar"],[data-testid="stDecoration"],#MainMenu,footer{display:none!important}
+.block-container{padding-top:1.4rem!important;padding-bottom:2rem!important;max-width:1440px}
+h1,h2,h3,h4,h1 *,h2 *,h3 *,h4 *{font-family:'Inter Display',Inter,sans-serif!important;color:var(--mata)!important;letter-spacing:-.015em}
+h1{font-weight:800!important;font-size:2.15rem!important;line-height:1.12!important;margin:0 0 .2rem!important}
+h3{font-weight:800!important;font-size:1.18rem!important}
+p,li,label,.stMarkdown{color:var(--mata)}
+/* barra lateral */
+[data-testid="stSidebar"]{background:var(--branco);border-right:1px solid var(--linha)}
+[data-testid="stSidebar"] h2{font-size:1.05rem!important}
+[data-testid="stSidebar"] .stMultiSelect [data-baseweb="tag"]{background:var(--mata)!important}
+/* cabeçalho */
+.eco-header{display:flex;align-items:center;gap:18px;background:var(--mata);color:#fff;border-radius:16px;padding:16px 22px;margin-bottom:22px}
+.eco-pill{background:var(--broto);color:var(--mata);font-weight:600;font-size:13px;padding:6px 14px;border-radius:999px;white-space:nowrap}
+.eco-header-right{margin-left:auto;text-align:right;color:#E6F1E7;font-size:12.5px;line-height:1.45}
+.eco-header-right b{color:#fff}
+.eco-sub{color:var(--musgo);font-size:15px;margin:2px 0 18px}
+/* seções e selos */
+.eco-section{display:flex;align-items:center;gap:12px;font-family:'Inter Display',Inter,sans-serif;font-weight:800;font-size:22px;color:var(--mata);margin:26px 0 12px;letter-spacing:-.015em}
+.eco-tag{font-family:Inter,sans-serif;font-weight:600;font-size:12.5px;padding:5px 12px;border-radius:999px;background:var(--orvalho);color:var(--folha);letter-spacing:0}
+.eco-tag.sim{background:var(--areia);color:var(--terra)}
+.eco-tag.cit{background:#EEF1EA;color:var(--musgo)}
+/* cartões de indicador */
+.eco-kpis{display:grid;gap:14px;margin:4px 0 6px}
+.eco-kpi{background:var(--branco);border:1px solid var(--linha);border-radius:16px;padding:18px 20px 16px;min-height:132px}
+.eco-kpi .num{font-family:'Inter Display',Inter,sans-serif;font-weight:800;font-size:34px;line-height:1.05;letter-spacing:-.02em;color:var(--mata)}
+.eco-kpi .lab{font-size:14.5px;line-height:1.35;color:var(--mata);margin-top:8px}
+.eco-kpi .foot{font-size:12px;color:var(--musgo);margin-top:8px;line-height:1.35}
+.eco-kpi.sim{background:#FFFBF2;border-color:#EBDDBE}
+.eco-kpi.sim .num{color:var(--terra)}
+.eco-kpi.dark{background:var(--mata);border-color:var(--mata)}
+.eco-kpi.dark .num{color:var(--broto)}.eco-kpi.dark .lab{color:#fff}.eco-kpi.dark .foot{color:#CFE0D2}
+/* caixas de texto */
+.eco-info,.eco-sim,.eco-note{border-radius:12px;padding:13px 16px;font-size:13.5px;line-height:1.5;margin:12px 0}
+.eco-info{background:var(--orvalho);color:#2E5242}
+.eco-sim{background:var(--areia);color:var(--terra)}
+.eco-sim b,.eco-info b{font-weight:600}
+.eco-note{background:var(--branco);border:1px solid var(--linha);color:var(--musgo)}
+.eco-card{background:var(--branco);border:1px solid var(--linha);border-radius:16px;padding:18px 20px}
+.eco-card h4{margin:0 0 6px!important;font-size:17px!important;font-weight:800!important}
+.eco-card .cap{color:var(--musgo);font-size:12.5px;margin:-2px 0 6px}
+.eco-formula{font-family:Inter,sans-serif;background:var(--branco);border:1px solid var(--linha);border-radius:12px;padding:12px 16px;font-size:14px;color:var(--mata)}
+/* tabelas */
+.eco-table{background:var(--branco);border:1px solid var(--linha);border-radius:14px;overflow:hidden}
+.eco-table table{width:100%;border-collapse:collapse;font-size:13.5px}
+.eco-table th{background:#F3F6F0;color:var(--musgo);font-weight:600;text-align:left;padding:10px 12px;border-bottom:1px solid var(--linha);font-size:12.5px}
+.eco-table td{padding:9px 12px;border-bottom:1px solid #EDF1EA;color:var(--mata);font-variant-numeric:tabular-nums}
+.eco-table tr:last-child td{border-bottom:none}
+.eco-table .n{text-align:right}.eco-table .b{font-weight:700}
+/* abas */
+.stTabs [data-baseweb="tab-list"]{gap:4px;border-bottom:1px solid var(--linha)}
+.stTabs [data-baseweb="tab"]{height:44px;padding:0 16px;border-radius:10px 10px 0 0;color:var(--musgo);font-weight:600}
+.stTabs [aria-selected="true"]{color:var(--mata)!important;background:var(--branco)}
+.stTabs [data-baseweb="tab-highlight"]{background:var(--mata)!important;height:3px}
+[data-testid="stVerticalBlockBorderWrapper"]:has(> div > [data-testid="stVerticalBlock"]){border-color:var(--linha)!important;background:var(--branco);border-radius:16px!important}
+.stDownloadButton button,.stButton button{border-radius:999px;border:1px solid var(--mata);color:var(--mata);background:var(--branco);font-weight:600}
+.stDownloadButton button:hover{background:var(--orvalho);border-color:var(--mata);color:var(--mata)}
+/* rodapé */
+.eco-footer{display:flex;gap:16px;align-items:center;border-top:1px solid var(--linha);margin-top:34px;padding-top:16px;font-size:12px;color:var(--musgo);line-height:1.5}
+
+.eco-h1{font-family:'Inter Display',Inter,sans-serif;font-weight:800;font-size:38px;line-height:1.1;letter-spacing:-.025em;color:var(--mata);margin:0 0 6px}
+.eco-ct{font-family:'Inter Display',Inter,sans-serif;font-weight:800;font-size:18px;letter-spacing:-.01em;color:var(--mata);margin:2px 0 2px}
+.eco-cs{font-size:12.5px;color:var(--musgo);margin:0 0 4px}
+.eco-card ul{margin:6px 0 0;padding-left:20px}.eco-card li{font-size:14px;line-height:1.5;margin:3px 0;color:var(--mata)}
+.eco-card code,.eco-cs code{font-size:12px;background:var(--orvalho);color:var(--folha);padding:1px 5px;border-radius:5px}
