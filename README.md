@@ -2,6 +2,9 @@
 
 FIAP · Global Solution 2026.2 · CitizenTech · Data Science
 
+[Vídeo Pitch](https://youtu.be/wO6sBU9StsQ?si=5Ix5i8HZ1RRC1W3W)
+
+
 Gisele Santos de Lima · Grupo NeoSync · 2TSCOR
 
 Painel que mostra, com dados públicos de Recife, por que o EcoFluxo é necessário e por onde começar. Os dados estão
